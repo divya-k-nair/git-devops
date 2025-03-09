@@ -2,4 +2,4 @@
 
 This repository is for understanding git concepts for devops
 Includes:
- - commmands,tutorials
+ - commmands,tutorials,videos
