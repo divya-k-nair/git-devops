@@ -1,3 +1,5 @@
 this is a new feature called feature2
 
 new addition
+
+another addition
